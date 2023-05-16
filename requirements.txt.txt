@@ -1,0 +1,7 @@
+torch==1.9.0
+torchvision==0.10.0
+streamlit==0.84.0
+Pillow==8.4.0
+scikit-learn==0.24.2
+matplotlib==3.5.1
+pytorch-grad-cam==0.3.1
